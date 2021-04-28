@@ -17,7 +17,7 @@ This guide will help you to configure Acreto Security connection on your Apple m
 
 Open the https://wedge.acreto.net in your favorite browser.
 
-Add a thing named laptop on Acreto Ecosystem - check how to do it
+Add a thing named laptop on Acreto Ecosystem - [check how to do it](https://kb.acreto.net/how-to/quickstart/connect-first-thing/#add-thing-to-acreto-wedge)
 
 ![alt text](https://kb.acreto.net/how-to/connect/acreto-connect/img/openvpn-config-ios_04.jpg?raw=true)
 

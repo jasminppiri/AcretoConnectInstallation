@@ -5,7 +5,7 @@ This guide will help you to configure Acreto Security connection on your Apple m
 
 ![alt text](https://github.com/jasminppiri/AcretoConnectInstallation/blob/main/IMG_2386.PNG?raw=true)
 
-2. Enter OpenVPN connect in the search bar
+2. Enter Acreto Connect Client in the search bar
 
 ![alt text](https://kb.acreto.net/how-to/connect/acreto-connect/img/openvpn-config-ios_02.jpg?raw=true)
 
@@ -41,7 +41,7 @@ Click on file section
 
 7. When asked for permissions
 
-Click Allow to allow OpenVPN to add VPN connections.
+Click Allow to allow Acreto Connect Client to add VPN connections.
 
 ![alt text](https://github.com/jasminppiri/AcretoConnectInstallation/blob/main/IMG_2390.PNG?raw=true)
 
